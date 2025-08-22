@@ -1,5 +1,5 @@
- <h1 align="center">Hi 👋, I'm Jesus Martinez</h1>
-<h3 align="center">I'm a software developer. A builder of ideas.</h3>
+ <h1 align="center">Hi Jesus Martinez</h1>
+<h3 align="center">developer. A builder of ideas.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
