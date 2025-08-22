@@ -4,10 +4,6 @@
 
 <div align="center">
 
-  <img width="12" />
-
-  <img width="12" />
-  <img width="12" />
 
  
 
