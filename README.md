@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jesus Martinez</h1>
-- 💬 Ask me about **I like making music and playing video games.**
+  I like making music and playing video games
 
  
 <h3 align="left">Languages and Tools:</h3>
