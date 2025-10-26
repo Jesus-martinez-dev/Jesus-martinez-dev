@@ -42,4 +42,4 @@ Each repository is a practical demonstration of the application of my technical 
 
 ## 📧 Contact
 
-**Direct Email:** **[Your Contact Email Here]**
+**Direct Email:** **jhmartin023@gmail.com**
