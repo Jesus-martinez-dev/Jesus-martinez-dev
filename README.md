@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jesus Martinez</h1>
-  Self-taught full-stack developer. 🐍 Python, 💻 JavaScript, SQL. Expert in game logic and efficient algorithms. Focused on building robust systems.
+ 
 
  <img src="https://github.com/user-attachments/assets/df86d396-3ad7-40c4-ab1d-7ebdd06923dc" width="1280" alt="Portada Pixel Art de Jesus Martinez">
  
