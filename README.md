@@ -2,7 +2,7 @@
 
  <div align="center">
   <img src="https://github.com/user-attachments/assets/df86d396-3ad7-40c4-ab1d-7ebdd06923dc" 
-       style="max-width:1000%; height:120px; object-fit:cover;" 
+       style="max-width:1000%; height:1000px; object-fit:cover;" 
        alt="Mi arte pixel">
 </div>
 
