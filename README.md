@@ -19,7 +19,7 @@
 
 ## 🛠️ Complete Technology Stack
 
-I have worked with a wide variety of languages, frameworks, and tools, focusing on a deep understanding of the principles of each technology.
+ "My experience spans a variety of languages ​​and tools. I focus on understanding the key principles of each technology."
 
 | Category | Technologies (Keywords) | Demonstrated Role |
 | :--- | :--- | :--- |
