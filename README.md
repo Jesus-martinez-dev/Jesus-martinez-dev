@@ -11,7 +11,7 @@
 
 ### 🎯 Professional Focus: Software Engineering and Business Logic (Self-taught)
 
-My profile is distinguished by a **self-taught** background based on initiative and engineering discipline. I specialize in the design and implementation of core logic for robust systems, from data management to application architecture.
+  **Self-taught** background based on initiative and engineering discipline. I specialize in the design and implementation of core logic for robust systems, from data management to application architecture.
 
 **Key Strengths:** Object-Oriented Programming (OOP), Algorithmic Efficiency, and Data Modeling.
 
@@ -35,8 +35,7 @@ I have worked with a wide variety of languages, frameworks, and tools, focusing 
 Each repository is a practical demonstration of the application of my technical skills. The READMEs for the following projects have been improved to detail the logic and lessons learned:
 
 * **[RPG Core System (C++)](https://github.com/Jesus-martinez-dev/RPG-system):** **Demonstrates:** Rigorous OOP, inheritance, and complex data modeling in a systems environment.
-* **[Secure Password Generator (Python)](https://github.com/Jesus-martinez-dev/Secure-Password-Generator-Python-Using-the-secrets-library):** **Demonstrates:** Security awareness, use of standard cryptographic libraries, and best practices in Python.
-* **[RPG Battle System (JS/Web)](https://github.com/Jesus-martinez-dev/Battle-game-rpg):** **Demonstrates:** Development of simulation algorithms in JavaScript and application state management.
+* **[Secure Password Generator (Python)](https://github.com/Jesus-martinez-dev/Secure-Password-Generator-Python-Using-the-secrets-library):** **Demonstrates:** Security awareness, use of standard cryptographic libraries, and best practices in Python. 
 * **[Data Visualizations (Python)](https://github.com/Jesus-martinez-dev/Python-Data-Visualizations-Practices):** **Demonstrates:** Data handling and use of libraries for graphical representation of information.
 
 ---
