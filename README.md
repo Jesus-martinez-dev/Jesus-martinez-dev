@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jesus Martinez</h1>
    
-  <img src="https://github.com/user-attachments/assets/df86d396-3ad7-40c4-ab1d-7ebdd06923dc" width="1280" alt="Portada Pixel Art de Jesus Martinez">
+ <div align="center">
+  <img src="https://github.com/user-attachments/assets/df86d396-3ad7-40c4-ab1d-7ebdd06923dc" 
+       style="max-width:100%; height:auto;" 
+       alt="Portada Pixel Art de Jesus Martinez">
+</div>
   
 
  
