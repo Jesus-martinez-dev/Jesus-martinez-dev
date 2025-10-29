@@ -69,15 +69,4 @@ _Exploring Python for data analysis_
 - Learning pandas
 
 <br>
-
-## 📈 My Progress
-
-<div align="center">
-
-```python
-def my_pathway():
-while True:
-learn()
-practice()
-build()
-improve()
+ 
