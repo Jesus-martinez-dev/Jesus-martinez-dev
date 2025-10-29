@@ -69,7 +69,7 @@ I'm a self-taught developer passionate about creating solutions through code. I 
 
 
 </div>
-## 📂 My Projects
+ 📂 My Projects
  🎮 [RPG System](https://github.com/Jesus-martinez-dev/RPG-system)
 _My first complex system in C++_
 - Learning object-oriented programming
