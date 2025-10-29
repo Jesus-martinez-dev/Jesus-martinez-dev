@@ -29,7 +29,7 @@ I'm a self-taught developer passionate about creating solutions through code. I 
 - 🎯 Clean and Maintainable Code
 
 <br>
- ## 🛠️ My Technology Stack
+ 
 
 <div align="center">
 
