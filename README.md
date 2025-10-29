@@ -70,20 +70,19 @@ I'm a self-taught developer passionate about creating solutions through code. I 
 
 </div>
 ## 📂 My Projects
-
-### 🎮 [RPG System](https://github.com/Jesus-martinez-dev/RPG-system)
+ 🎮 [RPG System](https://github.com/Jesus-martinez-dev/RPG-system)
 _My first complex system in C++_
 - Learning object-oriented programming
 - Class management and inheritance
 - Project in development
 
-### 🔐 [Password Generator](https://github.com/Jesus-martinez-dev/Secure-Password-Generator-Python-Using-the-secrets-library)
+🔐 [Password Generator](https://github.com/Jesus-martinez-dev/Secure-Password-Generator-Python-Using-the-secrets-library)
 _Small Python Utility_
 - Using security libraries
 - Command-line interface
 - Best practices in Python
 
-### 📊 [Data Visualizations](https://github.com/Jesus-martinez-dev/Python-Data-Visualizations-Practices)
+ 📊 [Data Visualizations](https://github.com/Jesus-martinez-dev/Python-Data-Visualizations-Practices)
 _Exploring Python for data analysis_
 - Practices with matplotlib
 - Graphs and representations
