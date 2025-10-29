@@ -68,7 +68,6 @@ I'm a self-taught developer passionate about creating solutions through code. I 
 
  
 
-<br>
 
 ## 📂 My Projects
 
