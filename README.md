@@ -10,7 +10,7 @@
 
 
 <div align="center">
-<h3>🚀 Developer</h3>
+<h3>🚀 </h3>
 <p><em>Learning and growing with every project</em></p>
 </div>
 
@@ -29,10 +29,7 @@ I'm a self-taught developer passionate about creating solutions through code. I 
 
 <br>
  
-
-## 🛠️ My Technology Stack
-
-<div align="center">
+ 
 
  ## 🛠️ My Technology Stack
 
