@@ -1,7 +1,12 @@
   <h1 align="center"> 
-✨ Hello, I'm Jesús Martínez ✨
+  Hi👋, I'm Jesús Martínez
 </h1>
 
+ <div align="center">
+
+ 
+<img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=30&duration=4000&color=00FF00&center=true&vCenter=true&width=600&height=80&lines=🚀+Jesús+Martínez;🎮+Game+Dev;💻+Code+Adventurer" alt="Typing SVG" />
+ 
 
 
 <div align="center">
