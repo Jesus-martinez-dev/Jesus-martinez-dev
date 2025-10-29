@@ -67,26 +67,33 @@ I'm a self-taught developer passionate about creating solutions through code. I 
 <br>
 
 
+ ## 📂 My Projects
 
-</div>
- 📂 My Projects
- 🎮 [RPG System](https://github.com/Jesus-martinez-dev/RPG-system)
-_My first complex system in C++_
-- Learning object-oriented programming
-- Class management and inheritance
-- Project in development
+<div align="center">
 
-🔐 [Password Generator](https://github.com/Jesus-martinez-dev/Secure-Password-Generator-Python-Using-the-secrets-library)
-_Small Python Utility_
-- Using security libraries
-- Command-line interface
-- Best practices in Python
-
- 📊 [Data Visualizations](https://github.com/Jesus-martinez-dev/Python-Data-Visualizations-Practices)
-_Exploring Python for data analysis_
-- Practices with matplotlib
-- Graphs and representations
-- Learning pandas
+| Category | Project | Description | Status |
+|:---:|:---:|:---:|:---:|
+| 🎮 | **[RPG System](https://github.com/Jesus-martinez-dev/RPG-system)** | My first complex system in C++ | 🟡 In Development |
+| 🔐 | **[Password Generator](https://github.com/Jesus-martinez-dev/Secure-Password-Generator-Python-Using-the-secrets-library)** | Small Python utility with security focus | ✅ Completed |
+| 📊 | **[Data Visualizations](https://github.com/Jesus-martinez-dev/Python-Data-Visualizations-Practices)** | Exploring Python for data analysis | ✅ Completed |
 
 <br>
- 
+
+### 🎯 Project Highlights
+
+#### 🎮 RPG System
+- **Focus:** Game architecture in C++
+- **Learning:** OOP, inheritance, system design
+- **Status:** Active development
+
+#### 🔐 Password Generator  
+- **Focus:** Security and Python best practices
+- **Technologies:** Python, secrets module
+- **Status:** Completed
+
+#### 📊 Data Visualizations
+- **Focus:** Data analysis and visualization
+- **Libraries:** matplotlib, pandas, seaborn
+- **Status:** Completed
+
+</div>
