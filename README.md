@@ -2,13 +2,7 @@
 ✨ Hello, I'm Jesús Martínez ✨
 </h1>
 
-<div align="center"> 
-<img src="https://github.com/user-attachments/assets/df86d396-3ad7-40c4-ab1d-7ebdd06923dc" 
-style="width: 80%; max-width: 600px; border-radius: 15px; border: 3px solid #6366f1;" 
-alt="My pixel art">
-</div>
 
-<br>
 
 <div align="center">
 <h3>🚀 Developer</h3>
