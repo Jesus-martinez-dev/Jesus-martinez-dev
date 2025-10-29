@@ -10,7 +10,7 @@
 
 
 <div align="center">
-<h3>🚀 </h3>
+ 
 <p><em>Learning and growing with every project</em></p>
 </div>
 
