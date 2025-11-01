@@ -4,12 +4,15 @@
 <div align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=30&duration=4000&color=00FF00&center=true&vCenter=true&width=600&height=80&lines=🚀+Jesús+Martínez;🎮+Game+Dev;💻+Code+Adventurer" alt="Typing SVG" /><p><em>✨ Learning and growing with every project ✨</em></p></div>
  
 <div align="center">
-I'm a passionate self-taught developer dedicated to creating innovative solutions through code. Every project is an opportunity to learn something new and push my boundaries.
+ I am a self-taught developer passionate about creating solutions through code. I love learning new technologies and improving my skills with each project. "I'm definitely not a hacker."
 
 </div>
 
  <div align="center">
  
+
+***
+
 🛠️ My Technology Stack
  
 💻 Programming Languages
@@ -19,6 +22,8 @@ I'm a passionate self-taught developer dedicated to creating innovative solution
 🗄️ Databases
 <div align="center" style="margin: 15px 0;"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"> </div></div>
 <div align="center">
+
+***
  
 🎮 Game Engines
 <div align="center" style="margin: 15px 0;"> <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" alt="Godot"> <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"> </div>
