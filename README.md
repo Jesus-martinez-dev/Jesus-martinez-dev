@@ -52,7 +52,7 @@ I am a self-taught developer who lives in the thin line between balancing ledger
 
 ---
 
-### 🖤 Hacker Logic / Lógica de Hacker
+###   Hacker Logic / Lógica de Hacker
 
 > "A accountant who knows how to program is just a hacker who knows where the money is hidden."
 > 
@@ -63,6 +63,6 @@ I am a self-taught developer who lives in the thin line between balancing ledger
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=tokyonight" alt="Stats" />
+ 
 
 </div>
