@@ -5,7 +5,7 @@
  
  <div align="center">
 
-#  Public Accountant by Day |  "Hacker" by Night
+#  Public Accountant by Day |  "Dev" by Night
 ### 🇻🇪 From Venezuela  / De Venezuela 
 
 I am a self-taught developer who lives in the thin line between balancing ledgers and debugging scripts. While I study **Public Accounting**, my true "illegal" passion is writing code.
@@ -52,7 +52,7 @@ I am a self-taught developer who lives in the thin line between balancing ledger
 
 ---
 
-###   Hacker Logic / Lógica de Hacker
+### 💀 Dark Mode Logic / Lógica de Hackerr
 
 > "A accountant who knows how to program is just a hacker who knows where the money is hidden."
 > 
