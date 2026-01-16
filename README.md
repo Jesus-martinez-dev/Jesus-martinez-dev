@@ -8,9 +8,9 @@
 #  Public Accountant by Day |  "Dev" by Night
 ### 🇻🇪 From Venezuela  / De Venezuela 
 
-I am a self-taught developer who lives in the thin line between balancing ledgers and debugging scripts. While I study **Public Accounting**, my true "illegal" passion is writing code.
+ I'm a self-taught developer who lives on the fine line between balancing the books and debugging scripts. While studying Public Accounting, I'm learning to develop as a hobby.
 
-*Soy un desarrollador autodidacta que vive en la delgada línea entre cuadrar balances y debuguear scripts. Mientras estudio **Contaduría Pública**, mi verdadera pasión "ilegal" es escribir código.*
+* Soy un desarrollador autodidacta que vive en la delgada línea entre llevar la contabilidad y depurar scripts. Mientras estudio Contabilidad Pública, estoy aprendiendo a desarrollar como pasatiempo.*
 
 ---
 
