@@ -12,11 +12,7 @@
 
 * Soy un desarrollador autodidacta que vive en la delgada línea entre llevar la contabilidad y depurar scripts. Mientras estudio Contabilidad Pública, estoy aprendiendo a desarrollar como pasatiempo.*
 
----
 
-
-
----
 
 ### 🛠️ My Digital Arsenal / Mi Stack Tecnológico
 
@@ -43,9 +39,7 @@
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"> 
 </div>
 
----
 
----
 
  
 
