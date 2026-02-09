@@ -14,12 +14,7 @@
 
 ---
 
-### About Me / Sobre mí
 
-* **Financial Wizardry:** I'm currently studying Public Accounting. I can make your taxes disappear... I mean, "optimize" them.
-* **Hacker Status:** People think I'm a hacker because I use the dark mode in VS Code and know how to use `Ctrl+Shift+I`. Don't tell them the truth.
-* **Venezuelan Resilience:** I can code even when the power goes out or the internet feels like it's from 1995.
-* **The Goal:** Mastering the art of making machines do my work so I can spend more time drinking coffee.
 
 ---
 
@@ -49,15 +44,6 @@
 </div>
 
 ---
-
-### 💀 Dark Mode Logic / Lógica de Hackerr
-
-> "A accountant who knows how to program is just a hacker who knows where the money is hidden."
-> 
-> *"Un contador que sabe programar es solo un hacker que sabe dónde está escondido el dinero."*
-
-* **Warning:** My code is like my country's economy: I don't know how it's still running, but it does.
-* **Status:** Learning how to hack my way into a stress-free life (results pending).
 
 ---
 
