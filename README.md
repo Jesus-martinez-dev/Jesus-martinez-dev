@@ -1,6 +1,21 @@
  ![Image](https://github.com/user-attachments/assets/0f24f9c7-e65b-4541-b665-abb765d1f8e9)
 ---
 
+
+### Hi, I'm Jesús! 👋 ദ്ദി(⌐■_■)
+
+I'm a developer, I love turning ideas into code, and I'm always looking for new technical challenges.
+
+---
+
+### **My Interests**
+
+* 💻 **Programming and Technology** — /ᐠ. ｡.ᐟ\
+* 🎨 **Drawing** —**   /ᐠ｡‸｡ᐟ\
+* 📺 **Watching TV Series** — (•_•)
+* 🎮 **Playing Video Games** —⟪=====>
+* 🎸 **Playing Guitar** — ▶︎·၊၊||၊|။|||| | ♬ 🎸
+
 ### 💻 Programming Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
