@@ -23,6 +23,7 @@
 </p>
 
 ---
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzRkNWNjNjlkODRlMzY5YmEyYzdlYWZkMzYwYjFhOTEwOGQ2YTljNiZlcD1WMSZjdD1n/vSU0wT89eM3e9M4y9i/giphy.gif" width="100%" alt="Banner de Naruto y Dragon">
+  <div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bHZhOGs4bGx2eHZpc2F2Y21wdGEzdXY2eHVxM3V0anBwcDQ2aXJ3MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/o04N6QsEczSmnFqx66/giphy.gif" alt="Naruto y Dragon" width="500"/>
 </div>
+---
