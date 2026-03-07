@@ -23,7 +23,7 @@
 </p>
 
 ---
-  <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bHZhOGs4bGx2eHZpc2F2Y21wdGEzdXY2eHVxM3V0anBwcDQ2aXJ3MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/o04N6QsEczSmnFqx66/giphy.gif" alt="Naruto y Dragon" width="500"/>
+ <div align="center">
+  <img src="https://media.giphy.com/media/o04N6QsEczSmnFqx66/giphy.gif" alt="Naruto y Dragon" width="600"/>
 </div>
 
