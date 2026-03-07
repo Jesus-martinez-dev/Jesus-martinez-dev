@@ -1,17 +1,3 @@
- <div align="center">
-  <p><em>Learning and growing with every project 📈</em></p>
-</div>
-
-<h3 align="center">📊 Public Accountant by Day | 🌙 "Dev" by Night</h3>
-<p align="center">📍 From Venezuela 🇻🇪</p>
-
----
-
-##  About Me / Sobre Mí
-
-I'm a self-taught developer who lives on the fine line between balancing the books and debugging scripts. While studying Public Accounting, I'm learning to develop as a hobby and building my path into the tech world.
-
-> *Soy un desarrollador autodidacta que vive en la delgada línea entre llevar la contabilidad y depurar scripts. Mientras estudio Contabilidad Pública, estoy aprendiendo a desarrollar como pasatiempo y construyendo mi camino en el mundo tecnológico.*
 
 ---
 
