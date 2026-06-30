@@ -1,46 +1,44 @@
----
+ <div align="center">
+  <!-- Inserta aquí el logo del proyecto. Aprovecha tus habilidades de diseño para crear un banner o pixel art atractivo -->
+  <img src="ruta/a/tu/logo-nime.png" alt="Nime Logo" width="200"/>
 
- ![Image](https://github.com/user-attachments/assets/0f24f9c7-e65b-4541-b665-abb765d1f8e9)
----
+  # Nime (o el nombre final de tu frontend)
+  
+  **Una interfaz moderna, rápida y descentralizada construida para el ecosistema blockchain de Hive.**
 
-
-### Hi, I'm Jesús! 👋 ദ്ദി(⌐■_■)
-
-I'm a developer, I love turning ideas into code, and I'm always looking for new technical challenges.
-
----
-
-### **My Interests**
-
-* 💻 **Programming and Technology** — /ᐠ. ｡.ᐟ\
-* 🎨 **Drawing** —**   /ᐠ｡‸｡ᐟ\
-* 📺 **Watching TV Series** — (•_•)
-* 🎮 **Playing Video Games** —⟪=====>
-* 🎸 **Playing Guitar** — ▶︎·၊၊||၊|။|||| | ♬ 🎸
-
-### 💻 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
-</p>
-
-###  Frontend
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-</p>
-
-### 🎮 Game Engines
-<p>
-  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" alt="Godot">
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
-</p>
-
----
-<div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bHZhOGs4bGx2eHZpc2F2Y21wdGEzdXY2eHVxM3V0anBwcDQ2aXJ3MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/o04N6QsEczSmnFqx66/giphy.gif" alt="Naruto y Dragon" width="500"/>
+  [![Hive Blockchain](https://img.shields.io/badge/Blockchain-Hive-red?style=for-the-badge&logo=hive)](#)
+  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
+  [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
+  [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
+  [![Estado: En Desarrollo](https://img.shields.io/badge/Estado-En_Desarrollo-success?style=for-the-badge)](#)
 </div>
 
+---
+
+## 🚀 Sobre el Proyecto
+
+Nime es un frontend diseñado para interactuar de manera fluida con la blockchain de Hive. Nuestro objetivo es reducir la fricción para los creadores de contenido y usuarios del ecosistema, ofreciendo una experiencia de usuario (UX) limpia, rápida y altamente responsiva. 
+
+## ✨ Características Principales
+
+*   **Interacción Descentralizada:** Conexión directa y segura con la red de Hive.
+*   **Rendimiento Optimizado:** Construido con Vanilla JavaScript para garantizar tiempos de carga mínimos sin depender de frameworks pesados.
+*   **Diseño Intuitivo:** Interfaz de usuario (UI) moderna y accesible para todo tipo de usuarios.
+*   *(Añade aquí cualquier otra función clave, como integración con wallets, visualización específica de contenido, etc.)*
+
+## 📸 Vista Previa
+
+*(Añade aquí un GIF o capturas de pantalla de alta calidad mostrando Nime en acción. Esto es vital para "vender" el frontend visualmente).*
+
+## 🛠️ Tecnologías Utilizadas
+
+*   **Frontend:** HTML5, CSS3, Vanilla JavaScript.
+*   **Web3/Blockchain:** API de Hive, *(menciona cualquier librería de wallet que uses, ej. Hive Keychain)*.
+
+## 💻 Instalación y Uso Local
+
+Si deseas correr este proyecto en tu entorno local, sigue estos pasos:
+
+1. Clona el repositorio:
+   ```bash
+   git clone [https://github.com/tu-usuario/nime.git](https://github.com/tu-usuario/nime.git)
