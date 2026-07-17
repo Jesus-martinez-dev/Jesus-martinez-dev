@@ -38,6 +38,9 @@ Nime is built by and for the community. We believe in open-source code as a driv
 *Built with dedication for the future of the decentralized web.*
 
 
+### 📈 Contribution Activity
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jesus-martinez-dev&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
+
 
 
  ### 🔥 Streak Statistics
