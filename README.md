@@ -1,5 +1,5 @@
  
-# Nime: Optimized Interface for the Hive Ecosystem
+# Nime
 
 **Redefining the user experience and decentralized content management.**
 
