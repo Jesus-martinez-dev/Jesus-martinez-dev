@@ -40,7 +40,7 @@ Nime is built by and for the community. We believe in open-source code as a driv
 
 
 
-
-### 🔥 [Project Name 2](repo-link) <!-- TODO: Replace with actual project -->
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Jesus-martinez-dev&repo=REPO_NAME&theme=tokyonight)](repo-link)
+ ### 🔥 Streak Statistics
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jesus-martinez-dev&theme=tokyonight&hide_border=true"/>
+</p>
